@@ -1,0 +1,20 @@
+{
+    "name": "Foundry.Authentication.Demo",
+    "rootNamespace": "Foundry.Authentication.Demo",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:9e080be906bfc1c4bb2683d498c53669",
+        "GUID:a37b4db9718aa4a578146fae3d79f26f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "FUSION_WEAVER"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
