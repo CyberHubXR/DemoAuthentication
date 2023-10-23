@@ -1,7 +1,7 @@
 {
   "name": "com.cyberhub.foundry.authentication.demo",
   "displayName": "Demo Authentication System for Foundry",
-  "version": "0.1.4-preview",
+  "version": "0.1.6-preview",
   "unity": "2021.3",
   "description": "A Foundry Authentication system built for offline demo environments.",
   "keywords": [
@@ -11,7 +11,7 @@
   ],
   "category": "Authentication",
   "dependencies": {
-    "com.cyberhub.foundry.core": "0.1.4-preview",
+    "com.cyberhub.foundry.core": "~0.2.0-preview",
     "com.unity.textmeshpro": "3.0.6"
   }
 }
